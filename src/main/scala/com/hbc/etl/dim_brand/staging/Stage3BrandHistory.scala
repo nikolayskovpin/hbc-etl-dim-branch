@@ -77,7 +77,7 @@ object Stage3BrandHistory {
       .as[BrandsNew]
 
 
-    //TODO join -> if -> reduce
+    //TODO join -> if -> reduce 1
     df.toDF()
   }
 
